@@ -50,7 +50,7 @@ function App() {
             <input value={weight} onChange={(e) => setWeight(e.target.value)} />
           </div>
           <div>
-            <label>Height (cm)</label>
+            <label>Heights (cm)</label>
             <input value={height} onChange={(e) => setHeight(e.target.value)} />
           </div>
           <div>
